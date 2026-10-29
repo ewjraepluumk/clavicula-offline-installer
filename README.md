@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-3D+Modeling-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Clavicula Free Installer** — Clavicula is a macOS 3D modeling application focused on hard-surface and organic modeling with a node-based procedural workflow. Works without internet access, no account required. Full offline installation.
+**💻 Clavicula Free Installer** — Clavicula is a 3D modeling and sculpting application that offers a streamlined workflow for creating hard-surface models and organic shapes. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Clavicula
 
-Clavicula is a macOS 3D modeling application focused on hard-surface and organic modeling with a node-based procedural workflow. It provides a unique modeling paradigm that allows non-destructive editing of complex 3D shapes.
+Clavicula is a 3D modeling and sculpting application that offers a streamlined workflow for creating hard-surface models and organic shapes. With a focus on procedural modeling tools, real-time preview, and an artist-friendly interface, Clavicula aims to make complex 3D modeling more accessible. It supports export to industry-standard formats for use in rendering and game engine pipelines.
 
 ---
 
 ## ❌ Problem: Clavicula is hard to access
 
-- **macOS Only** — No Windows or Linux version available
-- **Niche Approach** — Procedural modeling paradigm unfamiliar to most 3D artists
-- **Small Community** — Limited tutorials, resources, and community support
-- **Early Development** — Feature set still maturing compared to established 3D tools
+- **Newer Software** — Smaller community with fewer tutorials than established tools
+- **Feature Completeness** — Some workflows less mature than industry-standard alternatives
+- **Platform Availability** — Limited platform support compared to major 3D applications
+- **Integration** — Workflow integration with major 3D suites still developing
 
 ---
 
@@ -121,7 +121,7 @@ Clavicula is a macOS 3D modeling application focused on hard-surface and organic
 
 ---
 
-**Clavicula Free Installer** — Clavicula is a macOS 3D modeling application focused on hard-surface and organic modeling with a node-based procedural workflow. Install without internet connection today!
+**Clavicula Free Installer** — Clavicula is a 3D modeling and sculpting application that offers a streamlined workflow for creating hard-surface models and organic shapes. Install without internet connection today!
 
 <div align="center">
 
